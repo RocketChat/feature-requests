@@ -1,6 +1,6 @@
 # Rocket.Chat Feature Requests
 
-This repository is used to track [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) feature requests and discussions. Click [here](https://github.com/RocketChat/feature-requests/issues/new) to open a new feature request.
+This repository is used to track [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) feature requests and discussions. Click [here](https://github.com/RocketChat/feature-requests/issues/new?template=feature_request.md) to open a new feature request.
 
 **Note:** Rocket.Chat bugs are tracked in the [Rocket.Chat repo issue tracker](https://github.com/RocketChat/Rocket.Chat/issues).
 
