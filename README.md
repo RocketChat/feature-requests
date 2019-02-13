@@ -10,7 +10,7 @@ Many of the features in Rocket.Chat came from suggestions by you, the community!
 
 1. **Use case:** What are you trying to accomplish, in specific terms? Often, there might already be a good way to do what you need and a new feature is unnecessary, but it’s hard to know without information about the specific use case.
 
-2. **Could this be a plugin?** In many cases, a feature might be too niche to be included in the core of a library, and is better implemented as a companion package. If there isn’t a way to extend the library to do what you want, could we add additional plugin APIs? It’s important to make the case for why a feature should be part of the core functionality of the library.
+2. **Could this be a Rocket.Chat App?** In many cases, a feature might be too niche to be included in the core product, and is better implemented as a separated [app](https://github.com/RocketChat/Rocket.Chat.Apps-engine). If there isn’t a way to extend our core with an app to do what you want, could we extend our APIs to make it possible? It’s important to make the case for why a feature should be part of the core functionality of the product.
 
 3. **Is there a workaround?** Is this a more convenient way to do something that is already possible, or is there some blocker that makes a workaround unfeasible?
 
