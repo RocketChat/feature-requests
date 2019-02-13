@@ -2,7 +2,7 @@
 
 This repository is used to track [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) feature requests and discussions. Click [here](https://github.com/RocketChat/feature-requests/issues/new) to open a new feature request.
 
-**Note:** Apollo Client bugs are tracked in the [Rocket.Chat repo issue tracker](https://github.com/RocketChat/Rocket.Chat/issues).
+**Note:** Rocket.Chat bugs are tracked in the [Rocket.Chat repo issue tracker](https://github.com/RocketChat/Rocket.Chat/issues).
 
 ## Suggesting Features
 
